@@ -1,0 +1,12 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+footer {
+background-color : rgb(242, 223, 226); 
+display: flex; 
+flex-wrap: wrap; 
+justify-content: space-around; 
+    padding: 10px 15px; 
+    border: 10px solid transparent; 
+    border-radius: 10px;
+}
